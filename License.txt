@@ -1,0 +1,65 @@
+SOFTWARE LICENSE
+	Breaktru Software
+  eJuice Me Up software and ".rec" files are copyrighted and shall
+  not be reversed engineered:
+  Registration Number / Date: 	TX0007393971 / 2011-05-05
+  Application Title: eJuice Me Up
+
+ No one may modify or patch eJuice Me Up's executable files
+ in any way, including but not limited to decompiling,
+ disassembling, or otherwise reverse engineering the
+ program or recipe files.
+
+ A limited license is granted to copy and distribute
+ eJuice Me Up subject to the above limitations,
+ and also the following:
+
+  1)    eJuice Me Up and all of its release files must be
+        copied in unmodified form, complete with the file
+        containing this license information.
+
+  2)    No fee, charge, or other compensation may be requested
+        or accepted, except as authorized below:
+
+        A) Website  owners  may  make  eJuice Me Up available
+              for downloading only as long as the above condit-
+              ions are met.
+
+        B) Vendors of user-supported or shareware software
+             vendors/websites   may  distribute  eJuice Me Up
+             subject  to  the  above  conditions,  without  specific
+             permission.
+
+        C) Non-profit user groups may distribute copies of
+           the eJuice Me Up-Lite diskette to their members,
+           subject to the above conditions, without specific
+           permission.  Non-profit groups may collect a disk
+           duplication fee.
+
+
+
+  EXCEPT AS PROVIDED ABOVE, BREAKTRU SOFTWARE DISCLAIMS ALL
+  WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+  LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND
+  FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE
+  PRODUCT.  SHOULD THE PROGRAM PROVE DEFECTIVE, THE
+  PURCHASER ASSUMES THE RISK OF PAYING THE ENTIRE COST OF
+  ALL NECESSARY SERVICING, REPAIR, OR CORRECTION AND ANY
+  INCIDENTAL OR CONSEQUENTIAL DAMAGES.  IN NO EVENT WILL
+  BREAKTRU SOFTWARE BE LIABLE FOR ANY DAMAGES WHATSOEVER
+  (INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF
+  BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS
+  INFORMATION AND THE LIKE) ARISING OUT OF THE USE OR THE
+  INABILITY TO USE THIS PRODUCT EVEN IF BREAKTRU SOFTWARE
+  HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+  Use of this product for any period of time constitutes
+  your acceptance of this agreement and subjects you to its
+  contents.
+
+  U.S. GOVERNMENT RESTRICTED RIGHTS
+
+  Use, duplication, or disclosure by the Government is subject
+  to restrictions as set forth in subdivision (b)(3)(ii) of
+  the Rights in Technical Data and Computer Software clause at
+  252.227-7013.  Contractor/manufacturer is BreakTru Software.
